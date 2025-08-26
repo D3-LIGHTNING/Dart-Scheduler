@@ -1,4 +1,4 @@
-# Dart Scheduler
+# dart_scheduler
 
 A simple yet powerful Dart library for scheduling and running periodic tasks in a background isolate Modeled after the java "ScheduledExecuterService" API. This is useful for long-running or computationally intensive tasks that you don't want to block your application's main thread.
 
